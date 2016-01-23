@@ -1,0 +1,15 @@
+{
+  "name": "warm-night-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Atom dark syntax theme with warm colors.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mswift42/warm-night-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
