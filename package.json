@@ -1,7 +1,7 @@
 {
   "name": "our-friend-syntax",
   "theme": "syntax",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Atom dark syntax theme with colors inspired by the illustrations of 'Our Friend the Atom' and a paper on optimal lightness differences for legibility",
   "keywords": [
     "syntax",
