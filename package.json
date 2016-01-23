@@ -1,13 +1,13 @@
 {
-  "name": "warm-night-syntax",
+  "name": "our-friend-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Atom dark syntax theme with warm colors.",
+  "description": "Atom dark syntax theme with colors inspired by midcentury illustrations.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/mswift42/warm-night-syntax",
+  "repository": "https://github.com/atomicguy/our-friend-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
