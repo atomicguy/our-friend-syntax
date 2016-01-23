@@ -1,7 +1,7 @@
 {
   "name": "our-friend-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Atom dark syntax theme with colors inspired by midcentury illustrations.",
   "keywords": [
     "syntax",
