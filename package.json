@@ -2,10 +2,14 @@
   "name": "our-friend-syntax",
   "theme": "syntax",
   "version": "1.1.2",
-  "description": "Atom dark syntax theme with colors inspired by the illustrations of 'Our Friend the Atom' and a paper on optimal lightness differences for legibility",
+  "description": "Dark syntax colors inspired by illustrations in 'Our Friend the Atom' and a paper on optimal lightness differences for legibility",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "midcentury",
+    "mathematical",
+    "legibility"
   ],
   "repository": "https://github.com/atomicguy/our-friend-syntax",
   "license": "MIT",
