@@ -217,7 +217,7 @@ atom-text-editor .search-results .marker.current-result .region,
 
     &.name.tag {
         color: @type;
-        
+
     }
 
     &.other.attribute-name {
@@ -300,6 +300,14 @@ atom-text-editor .search-results .marker.current-result .region,
     -webkit-font-smoothing: auto;
     &.heading {
         color: @const;
+    }
+}
+
+// Use Italics for greater clearity (i.e. with Operator font)
+
+atom-text-editor::shadow{
+    .entity.other.attribute-name {
+        font-style: italic;
     }
 }
 
