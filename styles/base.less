@@ -315,3 +315,18 @@ atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
     padding-left: 1px;
 }
+
+// Brighten up the Search/Replace highlight color
+atom-text-editor::shadow .highlight.find-result .region {
+  background: rgba(99,123,227,.6);
+  z-index: -1;
+}
+
+atom-text-editor::shadow .highlight.current-result .region,
+atom-text-editor::shadow .highlight.current-result ~ .highlight.selection .region {
+  background: rgba(99,123,227,.8);
+  outline: solid;
+  outline-color: rgba(155, 169, 230, 1);
+  outline-width: 2px;
+  z-index: -1;
+}
