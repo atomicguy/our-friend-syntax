@@ -4,7 +4,7 @@ Atom dark syntax theme, inspired by illustrations in the book ["Our Friend the A
 
 ![Radioactive Elements](https://farm5.staticflickr.com/4122/4782028680_ebc57c6fea_n.jpg")
 
-The colors were chosen based on [research inticating an optimal CIELAB lightness difference](http://cs.brown.edu/people/zuffi/Site/Welcome_files/2007_Zuffi_ICIAP.pdf) is around 27.
+The colors were chosen based on [research indicating an optimal CIELAB lightness difference](http://cs.brown.edu/people/zuffi/Site/Welcome_files/2007_Zuffi_ICIAP.pdf) is around 27.
 
 # Screenshot
 ![Screenshot](https://raw.githubusercontent.com/atomicguy/our-friend-syntax/master/images/html_sample.png)
